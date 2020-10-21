@@ -3,5 +3,5 @@ array.each {|element| puts "Hello #{element}!"}
 end
 
 def list_dwarves(array)
- 
+ array.each {|element|
 end
